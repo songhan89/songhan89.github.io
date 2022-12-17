@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RRLFEY2B3K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RRLFEY2B3K');
+</script>
+
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
