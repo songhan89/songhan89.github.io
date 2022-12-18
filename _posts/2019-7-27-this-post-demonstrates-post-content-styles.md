@@ -1,26 +1,46 @@
 ---
 layout: post
-title: This post demonstrates post content styles
+title: Personal Goal for 2023
 categories: Miscellaneous
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+This post lays out my personal goal for 2023.
 
-## Some great heading (h2)
+# Family and Health, Finance
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+## Family Planning
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+-[ ] Seek help with wife
 
-## Another great heading (h2)
+## Recalibrate my life and schedule
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+## Financial Portfolio
 
-### Some great subheading (h3)
+My personal financial management has been put on auto-pilot for some time due to laziness and a lack of discipline. 
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+-[ ] Revisit my financial plan by Mar 2022
+-[ ] Clear all outstanding issues for my financial matters in Malaysia by Jul 2022
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+# Education
+
+-[ ] Complete my MITB Capstone Project by Feb 2023
+-[ ] Compete the remaining course work of MITB by Apr 2023
+
+# Tech
+
+## Complete two cloud certifications
+-[ ] [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1)
+-[ ] [Microsoft Azure Administrator](https://learn.microsoft.com/en-us/certifications/exams/az-104)
+
+## Learn DevOps
+-[ ] [Cloud DevOps Nanodegree](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
+### Learn Full Stack Web Development
+My knowledge of full-stack web development is a bit rusty. It's time to get back to it.
+
+-[ ] Complete either a course from Udacity 
+  - [Full Stack JavaScript Developer Nanodegree](https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067)
+  - [Educative.io](https://www.educative.io/courses/learn-full-stack-development-with-react-and-nodejs)
+-[ ] Build a project - idea to be determined
 
 ### Some great subheading (h3)
 
